@@ -11,6 +11,13 @@
 
 <br/>
 
-### Information
+### Version
 - OS : MAC Ventura 13.0
 - Java 17 (강의에서는 Java 11을 권장합니다.)
+- [Spring-Boot-Starter](https://start.spring.io/)
+    - Project : Gradle
+    - Language : Java
+    - Spring Boot : 2.7.5
+    - Packaging : Jar
+    - Java : 11
+- H2 database : 2.1.214 (2022-06-13)
