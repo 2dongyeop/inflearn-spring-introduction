@@ -20,4 +20,4 @@
     - Spring Boot : 2.7.5
     - Packaging : Jar
     - Java : 11
-- H2 database : 2.1.214 (2022-06-13)
+- [H2 database](https://www.h2database.com/html/main.html) : 2.1.214 (2022-06-13)
